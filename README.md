@@ -6,7 +6,7 @@
 
 - 🔭 Currently seeking opportunities where **I can Learn & Grow**
 
-- 🌱 Diving Deeper into Full Stack Web Development(MERN) **Web and Research Projects**
+- 🌱 Diving Deeper into **Full Stack Development**
 
 - 📫 How to reach me **contactanjali507@gmail.com**
 
