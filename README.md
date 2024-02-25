@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi, 👋My name is Anjali.</h1>
-<h3 align="center">🎓 I am a final year Computer Science undergraduate at Birla Institute of Technology, Mesra, actively seeking full-time opportunities in SDE roles.👩‍💻Currently, I’m trying my hands on MERN Stack and Problem-Solving.Throughout my journey, I have worked on Web applications. Additionally, I have conducted a research on the topic 'Advancements in Cancer Detection: A Comprehensive Analysis on Efficient Machine Learning Techniques for Precise Diagnosis and Prevention'.</h3>
+<h3 align="center">🎓 I am a final year Computer Science undergraduate at Birla Institute of Technology, Mesra, actively seeking full-time opportunities.👩‍💻Currently, I’m trying my hands on Full Stack development and Problem-Solving. Throughout my journey, I have worked on Web applications. Additionally, I have conducted a research on the topic 'Advancements in Cancer Detection: A Comprehensive Analysis on Efficient Machine Learning Techniques for Precise Diagnosis and Prevention'.</h3>
 
 
 - 🔭 Currently seeking opportunities where **I can Learn & Grow**
