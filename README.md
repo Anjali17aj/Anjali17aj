@@ -1,12 +1,12 @@
 
 
 <h1 align="center">Hi, 👋My name is Anjali.</h1>
-<h3 align="center">🎓 I am a final year Computer Science undergraduate at Birla Institute of Technology, Mesra, actively seeking full-time opportunities.👩‍💻Currently, I’m trying my hands on Full Stack development and Problem-Solving. Throughout my journey, I have worked on Web applications. Additionally, I have conducted a research on the topic 'Advancements in Cancer Detection: A Comprehensive Analysis on Efficient Machine Learning Techniques for Precise Diagnosis and Prevention'.</h3>
+<h3 align="center"> A dedicated Computer Science undergraduate seeking a developer role where I can apply my foundational knowledge of Java, Spring Boot, and React in both frontend and backend development. Eager to learn from real-world challenges, collaborate with experienced teams, and continuously enhance my skills while contributing meaningfully to scalable and secure software solutions.</h3>
 
 
 - 🔭 Currently seeking opportunities where **I can Learn & Grow**
 
-- 🌱 Diving Deeper into **Full Stack Development**
+- 🌱 Diving Deeper into **Java Full Stack Development**
 
 - 📫 How to reach me **contactanjali507@gmail.com**
 
