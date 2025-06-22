@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi, 👋My name is Anjali.</h1>
-<h3 align="center"> A dedicated Computer Science undergraduate seeking a developer role where I can apply my foundational knowledge of Java, Spring Boot, and React in both frontend and backend development. Eager to learn from real-world challenges, collaborate with experienced teams, and continuously enhance my skills while contributing meaningfully to scalable and secure software solutions.</h3>
+<h3 align="center"> Dedicated Computer Science graduate seeking a developer role where I can apply my foundational knowledge of Java, Spring Boot, and React in both frontend and backend development. Eager to learn from real-world challenges, collaborate with experienced teams, and continuously enhance my skills while contributing meaningfully to scalable and secure software solutions.</h3>
 
 
 - 🔭 Currently seeking opportunities where **I can Learn & Grow**
