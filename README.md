@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi, 👋My name is Anjali.</h1>
-<h3 align="center"> Dedicated Computer Science graduate seeking a developer role where I can apply my foundational knowledge of Java, Spring Boot, and React in both frontend and backend development. Eager to learn from real-world challenges, collaborate with experienced teams, and continuously enhance my skills while contributing meaningfully to scalable and secure software solutions.</h3>
+<h3 align="center"> I’m a passionate Software Developer with experience in designing and developing scalable web applications using Java, Spring Boot and React.js. My expertise spans Java full-stack development, RESTful API design, and microservice architectures. I enjoy solving problems through clean, efficient code and contributing to impactful software solution</h3>
 
 
 - 🔭 Currently seeking opportunities where **I can Learn & Grow**
