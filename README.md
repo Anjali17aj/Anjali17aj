@@ -1,7 +1,19 @@
 
 
 <h1 align="center">Hi, 👋My name is Anjali.</h1>
-<h3 align="center"> I’m a passionate Software Developer with experience in designing and developing scalable web applications using Java, Spring Boot and React.js. My expertise spans Java full-stack development, RESTful API design, and microservice architectures. I enjoy solving problems through clean, efficient code and contributing to impactful software solution</h3>
+<h3 align="center"> I am a Software developer with 1+ years of experience in designing, developing, and deploying scalable enterprise applications.
+
+I build scalable, secure, and maintainable applications using Java, Spring Boot, Microservices, and React.js. With 1+ years of experience across government project domains, I have worked on modernizing legacy web platforms, designing and developing RESTful APIs, and deploying cloud-ready applications.
+
+I specialize in design and development of web applications. I enjoy solving complex problems, writing clean code, and working with cross-functional teams on impactful government and enterprise projects.
+
+I’m passionate about clean code, performance tuning, and continuous learning.
+
+Also experienced in IT infrastructure risk analysis and basic web application testing when required.
+
+Open to Frontend, Java Backend, Microservices, and Full-Stack, Security-related opportunities. Happy to connect with developers, recruiters, and tech enthusiasts.
+
+</h3>
 
 
 - 🔭 Currently seeking opportunities where **I can Learn & Grow**
@@ -12,10 +24,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anjali17aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anjali17aj" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/anjali-kumari17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjali-kumari17" height="30" width="40" /></a>
-<a href="https://fb.com/anjali17aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anjali17aj" height="30" width="40" /></a>
-<a href="https://instagram.com/anjali._aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anjali._aj" height="30" width="40" /></a>
+
+
 
   <h3 align="right">I code here:</h3>
 <p align="right">
