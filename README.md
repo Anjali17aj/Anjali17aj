@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi, 👋My name is Anjali.</h1>
-<h3 align="center"> I am a Software developer with 1+ years of experience in designing, developing, and deploying scalable enterprise applications. I build scalable, secure, and maintainable applications using Java, Spring Boot, Microservices, and React.js. With 1+ years of experience across government project domains, I have worked on modernizing legacy web platforms, designing and developing RESTful APIs, and deploying cloud-ready applications. I specialize in design and development of web applications. I enjoy solving complex problems, writing clean code, and working with cross-functional teams on impactful government and enterprise projects. I’m passionate about clean code, performance tuning, and continuous learning. Also experienced in IT infrastructure risk analysis and basic web application testing when required.
+<h3 align="center"> Software Professional with 1+ years of experience in designing, developing, and deploying scalable enterprise applications using Java, Spring Boot, Microservices, REST APIs, React.js, and cloud-native technologies. Skilled in full-stack development with a strong focus on building secure, high-performance, and reliable web applications aligned with enterprise and government standards.
+
+Experienced in modernizing legacy systems, improving application performance, and developing clean, maintainable backend architectures. Adept at collaborating with cross-functional teams, solving complex technical challenges, and delivering impactful digital solutions in dynamic environments.
+
+Passionate about continuous learning and growth in Java Full Stack Development, with a strong interest in building innovative, scalable, and user-focused applications.
 Open to Frontend, Java Backend, Microservices, and Full-Stack, Security-related opportunities. Happy to connect with developers, recruiters, and tech enthusiasts.
 </h3>
 
