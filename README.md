@@ -11,7 +11,7 @@ Open to Frontend, Java Backend, Microservices, and Full-Stack, Security-related 
 
 - 🔭 Currently seeking opportunities where **I can Learn & Grow**
 
-- 🌱 Diving Deeper into **Java Full Stack Development**
+- 🌱 Diving Deeper into **Full Stack Java Development**
 
 - 📫 How to reach me **contactanjali507@gmail.com**
 
