@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, 👋My name is Anjali.</h1>
-<h3 align="center"> Software Professional with 2 years of experience in designing, developing, and deploying scalable enterprise applications using Java, Spring Boot, Microservices, REST APIs, React, and Angular. Passionate about building secure, high-performance, and user-focused digital solutions while continuously learning and adapting to emerging technologies. Open to opportunities in Java Backend, Full-Stack Development, Microservices, Frontend, and Application Security.
+<h3 align="center"> Software Professional with 2 years of experience in designing, developing, and deploying scalable enterprise applications using Java, Spring Boot, Microservices, REST APIs, React, Angular and AI. Passionate about building secure, high-performance, and user-focused digital solutions while continuously learning and adapting to emerging technologies. Open to opportunities in Java Backend, Full-Stack Development, Microservices, Frontend, and Application Security.
 </h3>
 
 
